@@ -1,0 +1,16 @@
+{"plants": [
+    {
+        "plot": 1,
+        "growthStage": 0,
+        "isThirsty": true,
+        "label": "cactus",
+        "breed": "cactus"
+    },
+    {
+        "plot": 2,
+        "growthStage": 0,
+        "isThirsty": true,
+        "label": "succulent",
+        "breed": "succulent"
+    }
+]}
